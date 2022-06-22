@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pendaftaran Siswa</string>
+    <string name="welcome">Selamat Datang di Aplikasi Pendaftaran Siswa SMA</string>
+    <string name="akun">Email</string>
+    <string name="tEmail">Masukkan Email</string>
+    <string name="passs">Password</string>
+    <string name="tPassword">Masukkan Password</string>
+    <string name="bsignin">Masuk</string>
+    <string name="who">Pertama Kali ?</string>
+    <string name="re">Daftar</string>
+    <string name="daftar">Register</string>
+    <string name="ennama">Masukkan Nama</string>
+    <string name="enemail">Masukkan Email</string>
+    <string name="enpass">Masukkan Password</string>
+    <string name="bre">Daftar</string>
+    <string name="regisnama">Nama</string>
+    <string name="regismail">E-Mail</string>
+    <string name="regispass">Password</string>
+    <string name="rerep">Re-Pass</string>
+
+</resources>
